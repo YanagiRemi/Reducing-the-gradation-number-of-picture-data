@@ -1,0 +1,1 @@
+# Reducing-the-gradation-number-of-picture-data
