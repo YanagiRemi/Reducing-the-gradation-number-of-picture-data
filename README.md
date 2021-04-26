@@ -1,1 +1,1 @@
-# Reducing-the-gradation-number-of-picture-data
+# 256階調のモノクロ画像「」にk-means法を適用してk階調の画像に変換するプログラムを作成しました。これにより画像の階調数を減らせます。
